@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "Ma\u00e7\u00e3",
+        "total_vendido": 3
+    },
+    {
+        "_id": "Tomate",
+        "total_vendido": 2
+    },
+    {
+        "_id": "Mussarela",
+        "total_vendido": 4
+    },
+    {
+        "_id": "Banana",
+        "total_vendido": 4
+    },
+    {
+        "_id": "Detergente",
+        "total_vendido": 2
+    },
+    {
+        "_id": "Sabonete",
+        "total_vendido": 3
+    },
+    {
+        "_id": "Laranja",
+        "total_vendido": 4
+    },
+    {
+        "_id": "Feij\u00e3o",
+        "total_vendido": 2
+    },
+    {
+        "_id": "Bolacha",
+        "total_vendido": 6
+    },
+    {
+        "_id": "Carne",
+        "total_vendido": 2
+    },
+    {
+        "_id": "Mortadela",
+        "total_vendido": 8
+    },
+    {
+        "_id": "Refrigerante",
+        "total_vendido": 4
+    },
+    {
+        "_id": "Macarr\u00e3o",
+        "total_vendido": 4
+    },
+    {
+        "_id": "Cerveja",
+        "total_vendido": 12
+    }
+]
